@@ -1,7 +1,0 @@
-#Sun Jan 08 00:00:16 GMT 2017
-base.0=/Users/apo/Desktop/QUIZFINAL/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_7082d73b6ffd20c8d0a512bea30a67082470a043
-renamed.1=classes2.dex
-renamed.0=classes.dex
-file.1=/Users/apo/Desktop/QUIZFINAL/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_1ce93f9a8ff2376fc5f64aedf9ebf381c46ba49e/classes.dex
-base.1=/Users/apo/Desktop/QUIZFINAL/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_1ce93f9a8ff2376fc5f64aedf9ebf381c46ba49e
-file.0=/Users/apo/Desktop/QUIZFINAL/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_7082d73b6ffd20c8d0a512bea30a67082470a043/classes.dex
