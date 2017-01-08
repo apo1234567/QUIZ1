@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">QUIZ FINAL</string>
+    <string name="hello">Hello World, AndroidSQLiteTutorialActivity!</string>
+    <string name="app_nae">AndroidSQLiteTutorial | See Log for result</string>
+    <string name="hello_world">Hello world!</string>
+
+
+    <string name="title_activity_final_screen">FinalScreen</string>
+    <string name="action_settings">Settings</string>
+    <string name="instructions">instructions</string>
+
+
+</resources>
